@@ -24,6 +24,8 @@ Several factors can stop your Canon printer from printing. Here are some of the 
 - Incorrect printer selected as default
 - Software conflicts or glitches on the computer
 
+`Click Here: Get the Live Canon Printer Support <https://jivo.chat/KlZSRejpBm>`_    
+
 How to Fix Canon Printer Not Printing
 -------------------------------------
 
