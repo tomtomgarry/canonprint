@@ -29,7 +29,7 @@ Several factors can stop your Canon printer from printing. Here are some of the 
 How to Fix Canon Printer Not Printing
 -------------------------------------
 
-If your Canon printer has stopped printing, follow these simple troubleshooting steps to get it working again:
+If your Canon printer has stopped printing, follow these simple troubleshooting steps to get it working again
 
 ✅ 1. Check the Basics
 ~~~~~~~~~~~~~~~~~~~~~
